@@ -1,0 +1,4 @@
+(executable
+ (public_name chat_sample)
+ (name main)
+ (libraries chat_sample conduit-lwt-unix websocket-lwt-unix))

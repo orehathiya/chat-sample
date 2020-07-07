@@ -1,0 +1,3 @@
+(library
+ (name chat_sample)
+ (libraries conduit-lwt-unix websocket-lwt-unix))
